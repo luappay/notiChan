@@ -161,6 +161,4 @@ class exchangeCompare():
         yield 0, ""
 ```
 
-This iStrategy queries information using the coin gecko API and calculates the largest spread for the target token. If the spread is above a certain threshold (in this case 5%), return an alert message. The message should show up in the Telegram chat like this;
-
-![notiChan%201a56a6976dfa4f7ba1d039f3b927a628/Untitled.png](notiChan%201a56a6976dfa4f7ba1d039f3b927a628/Untitled.png)
+This iStrategy queries information using the coin gecko API and calculates the largest spread for the target token. If the spread is above a certain threshold (in this case 5%), return an alert message. 
