@@ -1,0 +1,6 @@
+{
+    "tokenList": ["chainlink", "ethereum"],
+    "exchangeList": ["binance", "uniswap"],
+    "teleChatID": 0000,
+    "teleToken": "telegram bot token"
+}
